@@ -55,7 +55,6 @@ module d_ff_neg_edge (d, clk, rst, q);
   end
 endmodule
 
-
 ```
 **RTL LOGIC FOR FLIPFLOPS**
 
